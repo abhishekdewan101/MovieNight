@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>652338483788-k88snc068pboj6ou32v1avqvkogtq1v1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652338483788-k88snc068pboj6ou32v1avqvkogtq1v1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXY2saMlQesGVg7a7y4yddYy-hB3LezYU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652338483788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.movieeeApp</string>
+	<key>PROJECT_ID</key>
+	<string>moviedate-1918d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviedate-1918d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652338483788:ios:07f85c4cd7795f0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://moviedate-1918d.firebaseio.com</string>
+</dict>
+</plist>
